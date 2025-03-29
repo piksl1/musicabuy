@@ -26,7 +26,7 @@ The primary goal of MusicaBuy is to serve as a portfolio piece that highlights m
 To get started with MusicaBuy, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/musica-buy.git
+git clone https://github.com/piksl1/musica-buy.git
 cd musica-buy
 npm install
 ```
@@ -39,7 +39,7 @@ To run the development server, use the following command:
 npm run dev
 ```
 
-Visit `http://localhost:3000` in your browser to view the application.
+Visit `https://musicabuy.vercel.app/` in your browser to view the application.
 
 ## Building for Production
 
@@ -57,4 +57,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For inquiries, please reach out to [wassim.dev03@hotmail.com](mailto:wassim.dev03@hotmail.com).
